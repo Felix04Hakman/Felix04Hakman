@@ -3,12 +3,15 @@
  
  [![Gmail Badge](https://img.shields.io/badge/-hakman4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hakman4@gmail.com)](mailto:hakman4@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) 
-
 [![Linkedin Badge](https://img.shields.io/badge/-janfelix-mikulski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janfelix-mikulski/)](https://www.linkedin.com/in/jan-felix-mikulski/)
 [![Twitter Badge](https://img.shields.io/badge/-Felix_Hakman-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Felix_Hakman/)](https://www.twitter.com/Felix_Hakman/) 
+
+<p>I have a title of IT technician and I know <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" style="width:20px;height:20px"> PHP and
+<img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" style="width:20px;height:20px"> SQL in basic level. </p>
+<p>Actually I now learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:20px;height:20px"> Sass <img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo-thumbnail.png" style="width:20px;height:20px"> and React <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" style="width:20px;height:20px"> .</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Felix04Hakman alt=Felix04Hakman /> </p>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Felix04Hakman&show_icons=true&include_all_commits=true)](https://github.com/Felix04Hakman/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix04Hakman&layout=compact)](https://github.com/Felix04Hakman/github-readme-stats)
 
@@ -26,9 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I have a title of IT technician and I know <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" style="width:20px;height:20px"> PHP and
-<img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" style="width:20px;height:20px"> SQL in basic level. </p>
-<p>Actually I now learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:20px;height:20px"> Sass <img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo-thumbnail.png" style="width:20px;height:20px"> and React <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" style="width:20px;height:20px"> .</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix04Hakman&show_icons=true&theme=blue-green)](https://github.com/Felix04Hakman/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix04Hakman&layout=compact&theme=blue-green)](https://github.com/Felix04Hakman/github-readme-stats)<br/> <a href="https://github.com/Felix04Hakman/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Felix04Hakman&repo=github-readme-stats&theme=blue-green" />
