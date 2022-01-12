@@ -3,7 +3,8 @@
  
  [![Gmail Badge](https://img.shields.io/badge/-hakman4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hakman4@gmail.com)](mailto:hakman4@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) 
-[![Linkedin Badge](https://img.shields.io/badge/-janfelix-mikulski-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janfelix-mikulski/)](https://www.linkedin.com/in/jan-felix-mikulski/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-janfelix-mikulski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janfelix-mikulski/)](https://www.linkedin.com/in/jan-felix-mikulski/)
 [![Twitter Badge](https://img.shields.io/badge/-Felix_Hakman-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Felix_Hakman/)](https://www.twitter.com/Felix_Hakman/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Felix04Hakman alt=Felix04Hakman /> </p>
