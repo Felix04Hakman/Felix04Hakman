@@ -11,7 +11,6 @@
 <p>Actually I now learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:20px;height:20px"> Sass <img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo-thumbnail.png" style="width:20px;height:20px"> and React <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" style="width:20px;height:20px"> .</p>
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Felix04Hakman alt=Felix04Hakman /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Felix04Hakman&show_icons=true&include_all_commits=true)](https://github.com/Felix04Hakman/github-readme-stats)
 
