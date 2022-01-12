@@ -1,7 +1,9 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
- <p>I`m Jan, but my friends call me Felix. Felix Hakman is my nickname.</p>
+ <p>I`m Jan, but my friends call me Felix. Felix Hakman is my nickname.</p> 
+ 
  [![Gmail Badge](https://img.shields.io/badge/-hakman4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hakman4@gmail.com)](mailto:hakman4@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/janfelix-mikulski/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/janfelix-mikulski//)](https://www.linkedin.com/in/https://www.linkedin.com/in/janfelix-mikulski//) [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09/)](https://www.twitter.com/https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09/) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/janfelix-mikulski/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/janfelix-mikulski//)](https://www.linkedin.com/in/https://www.linkedin.com/in/janfelix-mikulski//) [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) 
+[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09/)](https://www.twitter.com/https://twitter.com/Felix_Hakman?t=cP_0S2N2JfPK2nT6jAP4w&s=09/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Felix04Hakman alt=Felix04Hakman /> </p>
 
