@@ -12,7 +12,9 @@
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Felix04Hakman alt=Felix04Hakman /> </p>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Felix04Hakman&show_icons=true&include_all_commits=true)](https://github.com/Felix04Hakman/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix04Hakman&layout=compact)](https://github.com/Felix04Hakman/github-readme-stats)
 
 <!--
