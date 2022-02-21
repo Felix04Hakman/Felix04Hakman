@@ -1,7 +1,7 @@
 <div align="center">
  <h1> Hi there 👋 </h1>
  </div>
- <div background-color="white">
+ <div style="color:blue">
  <p>I`m Jan, but my friends call me Felix. Felix Hakman is my nickname.</p> 
  <p>I have a title of IT technician and I know <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" style="width:20px;height:20px"> PHP and
 <img src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" style="width:20px;height:20px"> SQL in basic level. Actually I now learning JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:20px;height:20px"> Sass <img src="https://e7.pngegg.com/pngimages/33/52/png-clipart-sass-logo-cascading-style-sheets-scalable-graphics-less-text-logo-thumbnail.png" style="width:20px;height:20px"> and React <img src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg" style="width:20px;height:20px"> .</p>
