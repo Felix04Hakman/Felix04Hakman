@@ -1,5 +1,5 @@
 <div align="center">
- ### Hi there 👋 
+ <h1> Hi there 👋 </h1>
  </div>
  <p>I`m Jan, but my friends call me Felix. Felix Hakman is my nickname.</p> 
  <p>I have a title of IT technician and I know <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" style="width:20px;height:20px"> PHP and
