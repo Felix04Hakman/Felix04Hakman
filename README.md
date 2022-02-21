@@ -1,5 +1,5 @@
 <div align="center">
- ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Felix04Hakman&color=green)
+ ### Hi there 👋 
  </div>
  <p>I`m Jan, but my friends call me Felix. Felix Hakman is my nickname.</p> 
  <p>I have a title of IT technician and I know <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" style="width:20px;height:20px"> PHP and
@@ -9,7 +9,7 @@
 
 <div align="center">
 <h3>Connect with me:</h3></center>
-</div>
+
 
  [![Gmail Badge](https://img.shields.io/badge/-hakman4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hakman4@gmail.com)](mailto:hakman4@gmail.com) 
  [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) 
@@ -22,7 +22,7 @@
 <a href="https://instagram.com/felix_hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felix_hakman" height="30" width="40" /></a>
 <a href="https://discord.gg/Felix Hakman#2541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Felix Hakman#2541" height="30" width="40" /></a>
 </p> 
-
+</div>
  <hr style="border:solid,white,3px"/>
 
 <h3 align="left">Languages and Tools:</h3>
