@@ -15,13 +15,13 @@
  [![Gmail Badge](https://img.shields.io/badge/-hakman4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hakman4@gmail.com)](mailto:hakman4@gmail.com) 
  [![Github Badge](https://img.shields.io/badge/-Felix04Hakman-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Felix04Hakman/)](https://www.github.com/Felix04Hakman/) 
 
-<a href="https://codepen.io/felix04hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="felix04hakman" height="30" width="40" /></a>
-<a href="https://twitter.com/@felix_hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@felix_hakman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jan-felix-mikulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-felix-mikulski" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17355616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17355616" height="30" width="40" /></a>
-<a href="https://fb.com/fen.hak04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fen.hak04" height="30" width="40" /></a>
-<a href="https://instagram.com/felix_hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felix_hakman" height="30" width="40" /></a>
-<a href="https://discord.gg/Felix Hakman#2541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Felix Hakman#2541" height="30" width="40" /></a>
+<a href="https://codepen.io/felix04hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="felix04hakman" height="60" width="80" /></a>
+<a href="https://twitter.com/@felix_hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@felix_hakman" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/jan-felix-mikulski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jan-felix-mikulski" height="60" width="80" /></a>
+<a href="https://stackoverflow.com/users/17355616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17355616" height="60" width="80" /></a>
+<a href="https://fb.com/fen.hak04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fen.hak04" height="60" width="80" /></a>
+<a href="https://instagram.com/felix_hakman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felix_hakman" height="60" width="80" /></a>
+<a href="https://discord.gg/Felix Hakman#2541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Felix Hakman#2541" height="60" width="80" /></a>
 </p> 
 </div>
  <hr style="border:solid,white,3px"/>
