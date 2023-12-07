@@ -1,7 +1,7 @@
 <p align="center">
 <img src="img/Hi%20there!.png">
 </p>
-<h3 align="center">A passionate frontend developer from Poland. I currently live in Toruń</h3>
+<h3 align="center">A passionate frontend developer from Poland.</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
 
